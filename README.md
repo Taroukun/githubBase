@@ -1,6 +1,6 @@
 # githubBase
 
-Githubのテスト
+GitHub test
 
 ## Member
 * Taro
